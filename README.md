@@ -1,7 +1,3 @@
-
-<!--
-**EdAndrade/EdAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Front-End Lover ✨
 ### Hi there 👋, I´m Edmilson Andrade
 
