@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Flutter, Dart
 - 💬 Ask me about economy, chess...
 - 📫 How to reach me: [edmilson.ao]
-- ⚡ Fun fact: The only programmer who doesn't drink coffee 😄
+- ⚡ Fun fact: Don't drink Coffee 😄
