@@ -1,10 +1,8 @@
 ## Front-End Lover ✨
 ### Hi there 👋, I´m Edmilson Andrade
 
-#### Love to work mainly on Front-End Development ⚡
+#### Programing since 2015, Professional Software Developer for 5+ years ⚡
 
-- 🔭 I’m currently at INOKRI
-- 🌱 I’m currently learning Flutter, Dart
-- 💬 Ask me about economy, chess...
+- 🔭 I’m currently working as a Software Developer and Team Leader at INOKRI
+- 💬 Ask me about coding, economy, chess...
 - 📫 How to reach me: [edmilson.ao]
-- ⚡ Fun fact: Don't drink Coffee 😄
