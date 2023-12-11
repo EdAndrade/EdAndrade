@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 🖖, i'm Edmilson, a Software Developer from Angola, with 6 years of experience, including remote work for brazilian companies.
-I'm currently working for a Portuguese company with offices in Angola<br>Learning a lot of things rsrsrs, everytime i can.
+<br>I'm currently working for a Portuguese company with offices in Angola.<br>Learning a lot of things rsrsrs, everytime i can.
 
 # 💻 My website:
 [Edmilson Website](https://edmilson.ao)
